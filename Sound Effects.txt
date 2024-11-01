@@ -1,0 +1,9 @@
+" ADD-ONS "
+#Special Sound Effects for the alarm
+
+#Install pygame
+
+pip install pygame
+
+
+#Download or create an alarm sound file and name it "alarm.wav"
